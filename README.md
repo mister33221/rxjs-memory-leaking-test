@@ -4,6 +4,8 @@
 
 ## 專案介紹
 
+![alt text](image.png)
+
 本專案包含兩個主要元件：
 - **記憶體洩漏元件 (LeakingComponent)** - 展示常見的記憶體洩漏問題
 - **無記憶體洩漏元件 (NonLeakingComponent)** - 展示正確的處理方式
